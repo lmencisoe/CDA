@@ -1,0 +1,11 @@
+id,neighbourhood group,neighbourhood,lat,long,country,instant_bookable,cancellation_policy,room type,construction year,price,service fee,minimum nights,availability 365,number of reviews,review rate number
+31652329,Queens,St. Albans,40.68935,-73.77592,United States,False,strict,Private room,2004.0,$ 566,$ 113,1.0,363.0,27.0,3.0
+47617665,Manhattan,Morningside Heights,40.80752,-73.96713,United States,False,flexible,Entire home/apt,2011.0,$ 267,$ 53,7.0,393.0,5.0,4.0
+30443897,Queens,Corona,40.74942,-73.85123,United States,False,flexible,Private room,2015.0,$ 781,$ 156,1.0,65.0,51.0,3.0
+34527603,Manhattan,Harlem,40.8108,-73.93952,United States,False,flexible,Private room,2020.0,$ 982,$ 196,2.0,122.0,44.0,2.0
+36350193,Brooklyn,Bushwick,40.69985,-73.93358,United States,True,strict,Private room,2021.0,$ 901,$ 180,2.0,178.0,4.0,3.0
+29784451,Queens,Richmond Hill,40.6842,-73.82864,United States,False,moderate,Entire home/apt,2004.0,$ 960,$ 192,1.0,363.0,4.0,3.0
+15126961,Queens,Astoria,40.76972,-73.92662,United States,False,moderate,Private room,2004.0,"$ 1,19",$ 237,1.0,250.0,19.0,5.0
+29275230,Queens,Ridgewood,40.70529,-73.91332,United States,True,moderate,Entire home/apt,2009.0,$ 652,$ 130,1.0,31.0,13.0,5.0
+15864281,Manhattan,East Village,40.72535,-73.98244,United States,False,strict,Private room,2016.0,$ 242,$ 48,3.0,0.0,51.0,3.0
+11722584,Brooklyn,Prospect Heights,40.67419,-73.96423,United States,True,strict,Private room,2015.0,"$ 1,15",$ 230,3.0,0.0,4.0,3.0
