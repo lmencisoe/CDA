@@ -9,3 +9,6 @@ xgb_best_hp.pkl: hiperparámetros del mejor modelo.
 
 
 Se exportan todos los notebooks anteriores a archivos .py que la api permite leer y quedan definidos de la siguiente forma:
+
+main.py: Código de implementación de los modelos para la api.
+requirements.txt: Librerías utilizadas
