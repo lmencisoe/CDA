@@ -6,3 +6,6 @@ Funcion_entrenamiento.ipynb: Función de reentrenamiento del modelo y comparaci�
 Funcion_prediccion.ipynb: Función para predecir label de la data futura con el último modelo actualizado.
 pipeline_seleccionado.pkl: pipeline seleccionado del mejor modelo en el punto 1.
 xgb_best_hp.pkl: hiperparámetros del mejor modelo.
+
+
+Se exportan todos los notebooks anteriores a archivos .py que la api permite leer y quedan definidos de la siguiente forma:
